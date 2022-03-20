@@ -1,4 +1,4 @@
-![](https://www.virtuabot.fr/public/assets/VirtuaBot.png =180x180)
+<img src="https://www.virtuabot.fr/public/assets/VirtuaBot.png" width="200" height="200" />
 
 # [Virtuabot](https://virtuabot.fr)
 
