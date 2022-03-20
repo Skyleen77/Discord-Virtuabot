@@ -1,3 +1,5 @@
+![](https://www.virtuabot.fr/public/assets/VirtuaBot.png)
+
 # [Virtuabot](https://virtuabot.fr)
 
 Virtuabot is a complete **French Discord Bot**.
