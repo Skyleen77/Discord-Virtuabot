@@ -1,6 +1,6 @@
-<img src="https://www.virtuabot.fr/public/assets/VirtuaBot.png" width="200" height="200" />
-
 # [Virtuabot](https://virtuabot.fr)
+
+<img src="https://www.virtuabot.fr/public/assets/VirtuaBot.png" width="200" height="200" />
 
 Virtuabot is a complete **French Discord Bot**.
 
